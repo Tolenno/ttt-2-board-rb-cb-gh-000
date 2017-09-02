@@ -17,3 +17,5 @@ def bob_likes_onion
 
   puts "Thanks!"
 end
+
+puts bob_likes_onion
