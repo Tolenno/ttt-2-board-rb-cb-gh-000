@@ -1,3 +1,1 @@
-num_of_people = 547
-
-puts "At Beyonce's party there will be #{num_of_people} people there."
+answer = "What year are you going to get accepted into the Y Combinator accelerator?"
